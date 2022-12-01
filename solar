@@ -1,0 +1,3 @@
+cp ~/Desktop/SolarPlot/StellarBodyPlotting/*.txt ~/Desktop/SolarPlot
+cd ~/Desktop/SolarPlot
+xterm -e "python3 main.py"
